@@ -1,6 +1,6 @@
 package ru.java.basic.penkin.hw14;
 
-public class SingleThreadedArrayFill {  // На гитхаб vetka1
+public class SingleThreadedArrayFill {   // На гитхаб vetka1
     public static void main(String[] args) {
         long time = System.currentTimeMillis();
 
