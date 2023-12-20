@@ -1,6 +1,6 @@
 package ru.java.basic.penkin.hw14;
 
-public class MultiThreadedArrayFill {  // На гит[аб vetka1
+public class MultiThreadedArrayFill {  // На гитхаб vetka1
     public static void main(String[] args) throws InterruptedException {
         long time = System.currentTimeMillis();
 
